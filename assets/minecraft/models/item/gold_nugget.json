@@ -1,0 +1,12 @@
+{
+  "parent":"item/generated","textures":
+  {
+    "layer0":"item/gold_nugget"
+  },
+  
+  "overrides":[
+    
+	{"predicate":{"custom_model_data":1},"model":"nlp/coin"},
+	{"predicate":{"custom_model_data":2},"model":"nlp/placeholder"}
+  ]
+}
