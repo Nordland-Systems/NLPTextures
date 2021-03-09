@@ -13,6 +13,10 @@
 	{"predicate":{"custom_model_data":5},"model":"nlp/hats/nlp-cap-alpha"},
 	{"predicate":{"custom_model_data":6},"model":"nlp/hats/nlp-cap-creative"},
 	{"predicate":{"custom_model_data":7},"model":"nlp/hats/nlp-cap-leitung"},
-	{"predicate":{"custom_model_data":8},"model":"nlp/placeholder"}
+	{"predicate":{"custom_model_data":8},"model":"nlp/hats/zylinder"},
+	{"predicate":{"custom_model_data":9},"model":"nlp/hats/cyberhead"},
+	{"predicate":{"custom_model_data":10},"model":"nlp/hats/christmas_hat"},
+	{"predicate":{"custom_model_data":11},"model":"nlp/hats/rabbit_ears"},
+	{"predicate":{"custom_model_data":12},"model":"nlp/placeholder"}
   ]
 }
