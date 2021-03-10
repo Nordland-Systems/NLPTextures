@@ -17,6 +17,7 @@
 	{"predicate":{"custom_model_data":9},"model":"nlp/hats/cyberhead"},
 	{"predicate":{"custom_model_data":10},"model":"nlp/hats/christmas_hat"},
 	{"predicate":{"custom_model_data":11},"model":"nlp/hats/rabbit_ears"},
-	{"predicate":{"custom_model_data":12},"model":"nlp/placeholder"}
+	{"predicate":{"custom_model_data":12},"model":"nlp/hats/headphones"},
+	{"predicate":{"custom_model_data":13},"model":"nlp/placeholder"}
   ]
 }
