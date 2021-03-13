@@ -78,6 +78,7 @@
 			"scale": [0.5, 0.5, 0.5]
 		},
 		"thirdperson_lefthand": {
+			"rotation": [0, -180, 0],
 			"translation": [0, -0.5, 3],
 			"scale": [0.5, 0.5, 0.5]
 		},
@@ -87,7 +88,7 @@
 			"scale": [0.6, 0.6, 0.6]
 		},
 		"firstperson_lefthand": {
-			"rotation": [0, 15, 25],
+			"rotation": [0, -160, -25],
 			"translation": [0, 1, 1],
 			"scale": [0.6, 0.6, 0.6]
 		},
