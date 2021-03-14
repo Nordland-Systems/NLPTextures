@@ -22,6 +22,10 @@
 	{"predicate":{"custom_model_data":14},"model":"nlp/hats/devilhorns"},
 	{"predicate":{"custom_model_data":15},"model":"nlp/hats/kitchenchef"},
 	{"predicate":{"custom_model_data":16},"model":"nlp/hats/zaubererhut"},
-	{"predicate":{"custom_model_data":17},"model":"nlp/placeholder"}
+	{"predicate":{"custom_model_data":17},"model":"nlp/hats/papiertute"},
+	{"predicate":{"custom_model_data":18},"model":"nlp/hats/einhorn"},
+	{"predicate":{"custom_model_data":19},"model":"nlp/hats/cowboy"},
+	{"predicate":{"custom_model_data":20},"model":"nlp/hats/gianthat"},
+	{"predicate":{"custom_model_data":21},"model":"nlp/placeholder"}
   ]
 }
