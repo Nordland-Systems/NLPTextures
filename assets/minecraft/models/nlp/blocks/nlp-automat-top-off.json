@@ -1,5 +1,5 @@
 {
-	"credit": "Made with Blockbench",
+	"credit": "Steven Paw",
 	"texture_size": [64, 64],
 	"textures": {
 		"0": "nlp/blocks/nlp-automat-top-off",
@@ -222,7 +222,7 @@
 		},
 		"fixed": {
 			"translation": [0, 0, -1.25],
-			"scale": [2, 2, 2]
+			"scale": [1.995, 1.995, 2]
 		}
 	}
 }
