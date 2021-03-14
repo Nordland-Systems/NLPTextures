@@ -21,6 +21,7 @@
 	{"predicate":{"custom_model_data":13},"model":"nlp/hats/heiligenschein"},
 	{"predicate":{"custom_model_data":14},"model":"nlp/hats/devilhorns"},
 	{"predicate":{"custom_model_data":15},"model":"nlp/hats/kitchenchef"},
-	{"predicate":{"custom_model_data":16},"model":"nlp/placeholder"}
+	{"predicate":{"custom_model_data":16},"model":"nlp/hats/zaubererhut"},
+	{"predicate":{"custom_model_data":17},"model":"nlp/placeholder"}
   ]
 }
