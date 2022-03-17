@@ -1,9 +1,0 @@
-{
-    "buy": {
-	"subtitle": "buy-sound"
-         "sounds": [
-            "nlp/buy1",
-			"nlp/buy2"
-        ]
-    }
-}
