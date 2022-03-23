@@ -16,6 +16,8 @@
 	{"predicate":{"custom_model_data":8},"model":"nlp/placeholder"},
 	{"predicate":{"custom_model_data":9},"model":"nlp/placeholder"},
 	{"predicate":{"custom_model_data":10},"model":"nlp/blocks/nlp-automat-bottom"},
-	{"predicate":{"custom_model_data":11},"model":"nlp/placeholder"}
+	{"predicate":{"custom_model_data":11},"model":"nlp/blocks/cash_register"},
+	{"predicate":{"custom_model_data":12},"model":"nlp/blocks/cash_register2"},
+	{"predicate":{"custom_model_data":13},"model":"nlp/placeholder"}
   ]
 }
