@@ -18,6 +18,11 @@
 	{"predicate":{"custom_model_data":10},"model":"nlp/blocks/nlp-automat-bottom"},
 	{"predicate":{"custom_model_data":11},"model":"nlp/blocks/cash_register"},
 	{"predicate":{"custom_model_data":12},"model":"nlp/blocks/cash_register2"},
-	{"predicate":{"custom_model_data":13},"model":"nlp/placeholder"}
+	{"predicate":{"custom_model_data":13},"model":"nlp/blocks/cash_register3"},
+	{"predicate":{"custom_model_data":14},"model":"nlp/placeholder"},
+	{"predicate":{"custom_model_data":15},"model":"nlp/placeholder"},
+	{"predicate":{"custom_model_data":16},"model":"nlp/placeholder"},
+	{"predicate":{"custom_model_data":17},"model":"nlp/blocks/pc_setup"},
+	{"predicate":{"custom_model_data":18},"model":"nlp/placeholder"}
   ]
 }
